@@ -1,0 +1,19 @@
+body{
+    font-family: 'Anton';
+}
+
+.bg-image {
+    background-image: url("space.jpg");
+    height:40vh;
+    background-size: cover;
+}
+
+
+
+.header {
+    background: #222222!important;
+}
+
+.bg-dark{
+    height: 1rem;
+}
